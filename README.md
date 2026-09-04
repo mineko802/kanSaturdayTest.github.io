@@ -1,0 +1,10 @@
+実装した機能
+
+A. プレイヤー追従カメラとGlobal Volume演出
+Color AdjustmentsのColor Filterを使って雪の粒子と相まう雰囲気を出します
+
+C.ミニマップの実装
+プレイヤーの頭の上に表示用のTokenを作って、Tokenだけを映すようにCulling Maskで調整しました
+
+F. ParticleSystemを用いたエフェクト
+ParticleSystemで雪の感じを出す
